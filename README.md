@@ -1,7 +1,3 @@
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-![header](https://github.com/RP11-AI/personal-data/blob/main/general/header.png?raw=true)
-
 # Stark Workbench V3 — Transparent OS Interaction Engine
 The Stark Workbench is a next-generation accessibility and productivity tool that converts your bare hands into a high-precision, gesture-driven controller for the Windows Desktop.
 
@@ -61,4 +57,4 @@ Ensure your terminal is focused to trigger these failsafes:
 
 *(Note: The system automatically searches for a `hand_landmarker.task` model file on boot.)*
 
-![board](https://github.com/RP11-AI/personal-data/blob/main/general/baseboard.png?raw=true)
+
