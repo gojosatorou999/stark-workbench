@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MediaPipe model files
+*.task
+
+# Stark Workbench outputs
+my_video.avi
+snapshot_*.png
