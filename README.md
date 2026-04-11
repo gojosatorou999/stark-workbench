@@ -1,4 +1,4 @@
-# Stark Workbench V3 — Transparent OS Interaction Engine
+# Stark Workbench V3:Transparent OS Interaction Engine
 The Stark Workbench is a next-generation accessibility and productivity tool that converts your bare hands into a high-precision, gesture-driven controller for the Windows Desktop.
 
 By combining the **MediaPipe Tasks API**, **OpenCV**, and **PyWin32**, this application creates a completely invisible, click-through overlay on top of your entire screen. It maps your fingertips directly to your OS, allowing you to manipulate real desktop apps, folders, and windows without ever touching a mouse or keyboard.
