@@ -3,7 +3,7 @@ The Stark Workbench is a next-generation accessibility and productivity tool tha
 
 By combining the **MediaPipe Tasks API**, **OpenCV**, and **PyWin32**, this application creates a completely invisible, click-through overlay on top of your entire screen. It maps your fingertips directly to your OS, allowing you to manipulate real desktop apps, folders, and windows without ever touching a mouse or keyboard.
 
-## ✨ Core Features
+----->>✨ Core Features
 - **Pure Transparent Overlay:** Runs borderless and completely transparent. The camera feed is hidden. You only see subtle, glowing interaction artifacts (trails and pinch outlines) floating over your actual Windows environment.
 - **Dual-Hand Operating System:** Your right hand acts as a precision pointer, while your left hand acts as a powerful modifier, running fully parallel state engines.
 - **True OS Hooks:** Simulates genuine Windows events (`MOUSEEVENTF_LEFTDOWN`, scrolling, `Win+Ctrl` key combinations) rather than moving fake in-app objects.
